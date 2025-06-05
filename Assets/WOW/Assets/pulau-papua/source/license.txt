@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pulau Papua
+* source:	https://sketchfab.com/3d-models/pulau-papua-8539a2e519c74fffbedc145cdf390876
+* author:	akbarrazaniali80 (https://sketchfab.com/akbarrazaniali80)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pulau Papua" (https://sketchfab.com/3d-models/pulau-papua-8539a2e519c74fffbedc145cdf390876) by akbarrazaniali80 (https://sketchfab.com/akbarrazaniali80) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
